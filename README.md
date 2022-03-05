@@ -12,7 +12,7 @@
 
           System.out.println("Estuadiante de Lic. en Sistemas en la UNER");
 
-          System.out.println("Studying a degree in Systems at UNER");
+          System.out.println("Studying a bachelor of systems at UNER");
       };
   }
   
